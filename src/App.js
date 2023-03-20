@@ -28,6 +28,7 @@ const App = () => {
       {Math.round(data?.main?.temp - 273)}
       feels like
       {Math.round(data?.main?.feels_like - 273)}
+      kukuku
     </div>
   );
 };
